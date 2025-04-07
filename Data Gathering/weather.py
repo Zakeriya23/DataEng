@@ -2,7 +2,7 @@ import requests
 from datetime import datetime, timedelta
 
 # OpenWeatherMap API key
-api_key = '13f458edba6e0be0ee415db872363571'
+api_key = 'ENV'
 city = 'Portland,US'
 
 # Question A: Is it raining in Portland, OR right now?
